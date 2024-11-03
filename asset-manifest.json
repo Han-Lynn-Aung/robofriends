@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//Han-Lynn-Aung.github.io/robofriends/static/css/main.15fd03e3.css",
+    "main.js": "//Han-Lynn-Aung.github.io/robofriends/static/js/main.242fa898.js",
+    "static/js/453.8cad2add.chunk.js": "//Han-Lynn-Aung.github.io/robofriends/static/js/453.8cad2add.chunk.js",
+    "static/media/SEGA.woff": "//Han-Lynn-Aung.github.io/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "//Han-Lynn-Aung.github.io/robofriends/index.html",
+    "main.15fd03e3.css.map": "//Han-Lynn-Aung.github.io/robofriends/static/css/main.15fd03e3.css.map",
+    "main.242fa898.js.map": "//Han-Lynn-Aung.github.io/robofriends/static/js/main.242fa898.js.map",
+    "453.8cad2add.chunk.js.map": "//Han-Lynn-Aung.github.io/robofriends/static/js/453.8cad2add.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15fd03e3.css",
+    "static/js/main.242fa898.js"
+  ]
+}
